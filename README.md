@@ -8,6 +8,8 @@ In the project directory, you can run:
 
 ### If using nvm run 'nvm install --lts'
 
+May have to run this for specific node version
+
 ### `npm start`
 
 Runs the app in the development mode.\
