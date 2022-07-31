@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### If using nvm run 'nvm install --lts'
 
-May have to run this for specific node version.
+May have to run this for specific node version...
 
 ### `npm start`
 
