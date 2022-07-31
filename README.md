@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### If using nvm run 'nvm install --lts'
+
 ### `npm start`
 
 Runs the app in the development mode.\
